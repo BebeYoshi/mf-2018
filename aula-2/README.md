@@ -14,7 +14,7 @@ mkdir teste
 
 cd teste
 
-> teste.txt
+``> teste.txt``
 
 rm teste.txt
 
